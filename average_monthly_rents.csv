@@ -1,0 +1,501 @@
+name,id,average_monthly_rent
+Arcos de Valdevez,1601,202.16
+Caminha,1602,232.24
+Melgaço,1603,215.67
+Monção,1604,208.22
+Paredes de Coura,1605,203.17
+Ponte da Barca,1606,170.97
+Ponte de Lima,1607,208.46
+Valença,1608,218.61
+Viana do Castelo,1609,243.40
+Vila Nova de Cerveira,1610,244.05
+Amares,0301,189.72
+Barcelos,0302,214.19
+Braga,0303,217.79
+Esposende,0306,268.76
+Terras de Bouro,0310,143.52
+Vila Verde,0313,204.50
+Fafe,0307,175.67
+Guimarães,0308,161.73
+Póvoa de Lanhoso,0309,184.95
+Vieira do Minho,0311,146.21
+Vila Nova de Famalicão,0312,189.37
+Vizela,0314,158.35
+Santo Tirso,1314,184.47
+Trofa,1318,244.65
+Espinho,0107,173.24
+Gondomar,1304,168.38
+Maia,1306,234.85
+Matosinhos,1308,229.73
+Porto,1312,191.49
+Póvoa de Varzim,1313,242.49
+Valongo,1315,211.90
+Vila do Conde,1316,230.81
+Vila Nova de Gaia,1317,200.25
+Castelo de Paiva,0106,129.74
+Cabeceiras de Basto,0304,164.70
+Celorico de Basto,0305,134.36
+Amarante,1301,155.60
+Baião,1302,149.87
+Felgueiras,1303,169.29
+Lousada,1305,203.81
+Marco de Canaveses,1307,165.13
+Paços de Ferreira,1309,188.99
+Paredes,1310,189.48
+Penafiel,1311,166.79
+Mondim de Basto,1705,183.50
+Ribeira de Pena,1709,166.11
+Cinfães,1804,155.18
+Resende,1813,178.64
+Arouca,0104,185.38
+Santa Maria da Feira,0109,195.11
+Oliveira de Azeméis,0113,199.36
+São João da Madeira,0116,196.27
+Vale de Cambra,0119,203.80
+Carrazeda de Ansiães,0403,165.88
+Freixo de Espada à Cinta,0404,137.75
+Torre de Moncorvo,0409,147.19
+Vila Flor,0410,154.42
+Vila Nova de Foz Côa,0914,171.33
+Alijó,1701,158.90
+Mesão Frio,1704,135.38
+Peso da Régua,1708,160.65
+Sabrosa,1710,124.79
+Santa Marta de Penaguião,1711,139.27
+Vila Real,1714,226.14
+Armamar,1801,230.15
+Lamego,1805,184.92
+Moimenta da Beira,1807,174.85
+Penedono,1812,194.94
+São João da Pesqueira,1815,230.66
+Sernancelhe,1818,132.42
+Tabuaço,1819,193.35
+Tarouca,1820,183.97
+Alfândega da Fé,0401,123
+Bragança,0402,203.90
+Macedo de Cavaleiros,0405,184.34
+Miranda do Douro,0406,179.62
+Mirandela,0407,199.76
+Mogadouro,0408,188.78
+Vimioso,0411,131.29
+Vinhais,0412,111.72
+Boticas,1702,186.61
+Chaves,1703,199.04
+Montalegre,1706,179.22
+Murça,1707,175.57
+Valpaços,1712,197.86
+Vila Pouca de Aguiar,1713,193.90
+Agadão,010101,42.50
+Aguada de Baixo,010102,185.74
+Aguada de Cima,010103,221.33
+Águeda,010104,212.27
+Barrô,010105,238.26
+Belazaima do Chão,010106,158.33
+Castanheira do Vouga,010107,101.25
+Espinhel,010108,223.25
+Fermentelos,010109,247.89
+Lamas do Vouga,010110,188.09
+Macieira de Alcoba,010111,0
+Macinhata do Vouga,010112,200.41
+Óis da Ribeira,010113,201.53
+Préstimo,010114,145.42
+Recardães,010115,223.02
+Segadães,010116,210.20
+Travassô,010117,213.71
+Trofa,010118,216.58
+Valongo do Vouga,010119,198.60
+Borralha,010120,270.65
+Albergaria-a-Velha,010201,241.96
+Alquerubim,010202,205.07
+Angeja,010203,177.88
+Branca,010204,239.86
+Frossos,010205,199.06
+Ribeira de Fráguas,010206,194.38
+São João de Loure,010207,211.57
+Valmaior,010208,199.92
+Amoreira da Gândara,010301,214.58
+Ancas,010302,208.33
+Arcos,010303,235.81
+Avelãs de Caminho,010304,248.03
+Avelãs de Cima,010305,225.38
+Mogofores,010306,190.58
+Moita,010307,255.18
+Óis do Bairro,010308,248.30
+Sangalhos,010309,226.24
+São Lourenço do Bairro,010310,239.63
+Tamengos,010311,248.93
+Vila Nova de Monsarros,010312,189.31
+Vilarinho do Bairro,010313,210.34
+Paredes do Bairro,010314,236.11
+Aguim,010315,250.54
+Aradas,010501,280.03
+Cacia,010502,230.71
+Eirol,010503,176.15
+Eixo,010504,233.15
+Esgueira,010505,278.90
+Glória,010506,207.45
+Nariz,010507,198.03
+Oliveirinha,010508,199.81
+Requeixo,010509,233.09
+São Bernardo,010510,308.64
+São Jacinto,010511,138.88
+Vera Cruz,010512,295.47
+Santa Joana,010513,182.25
+Nossa Senhora de Fátima,010514,253.15
+Avanca,010801,226.06
+Beduído,010802,192.07
+Canelas,010803,195.29
+Fermelã,010804,203.86
+Pardilhó,010805,243.03
+Salreu,010806,232.82
+Veiros,010807,216.92
+Gafanha do Carmo,011001,291.54
+Gafanha da Encarnação,011002,286.46
+Gafanha da Nazaré,011003,255.33
+Ílhavo (São Salvador),011004,214.10
+Antes,011101,218.56
+Barcouço,011102,314.55
+Casal Comba,011103,276.23
+Luso,011104,180.25
+Mealhada,011105,273.48
+Pampilhosa,011106,237.54
+Vacariça,011107,214.77
+Ventosa do Bairro,011108,265
+Bunheiro,011201,186.19
+Monte,011202,227.11
+Murtosa,011203,252.97
+Torreira,011204,137.84
+Bustos,011401,262.15
+Mamarrosa,011402,229.78
+Oiã,011403,269.46
+Oliveira do Bairro,011404,274.64
+Palhaça,011405,263.05
+Troviscal,011406,282.29
+Arada,011501,247.40
+Cortegaça,011502,186.77
+Esmoriz,011503,213.99
+Maceda,011504,223.98
+Ovar,011505,223.02
+São Vicente de Pereira Jusã,011506,213.37
+Válega,011507,203.01
+São João,011508,191.34
+Sever do Vouga,0117,216.30
+Cedrim,011701,250
+Couto de Esteves,011702,0
+Paradela,011703,90
+Pessegueiro do Vouga,011704,277.24
+Rocas do Vouga,011705,350
+Sever do Vouga,011706,213.40
+Silva Escura,011707,186.32
+Talhadas,011708,251.25
+Dornelas,011709,139.06
+Vagos,0118,257.55
+Calvão,011801,268.42
+Covão do Lobo,011802,237.50
+Fonte de Angeão,011803,218.75
+Gafanha da Boa Hora,011804,260.36
+Ouca,011805,251.25
+Ponte de Vagos,011806,202.19
+Sosa,011807,252.10
+Vagos,011808,252.46
+Santo António de Vagos,011809,316.67
+Santo André de Vagos,011810,339.64
+Santa Catarina,011811,175
+Ançã,060201,251.21
+Bolho,060202,183.33
+Cadima,060203,173.04
+Cantanhede,060204,264.80
+Cordinhã,060205,145.83
+Covões,060206,234.09
+Febres,060207,221.06
+Murtede,060208,237.50
+Ourentã,060209,215
+Outil,060210,285
+Pocariça,060211,245.83
+Portunhos,060212,232.19
+Sepins,060213,182.14
+Tocha,060214,219.01
+São Caetano,060215,158.33
+Corticeiro de Cima,060216,426.67
+Vilamar,060217,250
+Sanguinheira,060218,131.25
+Camarneira,060219,201.11
+Almalaguês,060301,269.08
+Coimbra (Almedina),060302,186.56
+Ameal,060303,214.44
+Antanhol,060304,221.21
+Antuzede,060305,246.79
+Arzila,060306,197
+Assafarge,060307,244.30
+Botão,060308,195.83
+Brasfemes,060309,183.23
+Castelo Viegas,060310,197.31
+Ceira,060311,223.60
+Cernache,060312,225.14
+Eiras,060313,239.31
+Lamarosa,060314,205.40
+Ribeira de Frades,060315,158.01
+Santa Clara,060316,261.23
+Coimbra (Santa Cruz),060317,209.72
+Santo António dos Olivais,060318,305.35
+Coimbra (São Bartolomeu),060319,178.95
+São João do Campo,060320,216.52
+São Martinho de Árvore,060321,243.27
+São Martinho do Bispo,060322,219.45
+São Paulo de Frades,060323,201.69
+São Silvestre,060324,274.52
+Coimbra (Sé Nova),060325,281.70
+Souselas,060326,226.20
+Taveiro,060327,240.87
+Torre de Vilela,060328,244.50
+Torres do Mondego,060329,219.28
+Trouxemil,060330,199.23
+Vil de Matos,060331,308.33
+Anobra,060401,222.92
+Belide,060402,0
+Bem da Fé,060403,0
+Condeixa-a-Nova,060404,285.51
+Condeixa-a-Velha,060405,325.95
+Ega,060406,269.05
+Furadouro,060407,0
+Sebal,060408,251.03
+Vila Seca,060409,269.58
+Zambujal,060410,300
+Alhadas,060501,87.59
+Alqueidão,060502,141.25
+Brenha,060503,131.46
+Buarcos,060504,238.17
+Ferreira-a-Nova,060505,212.50
+Lavos,060506,203.53
+Maiorca,060507,146.81
+Marinha das Ondas,060508,144.59
+Paião,060509,252.13
+Quiaios,060510,251.44
+São Julião da Figueira da Foz,060511,211.76
+Tavarede,060512,260.71
+Vila Verde,060513,104.04
+São Pedro,060514,184.52
+Bom Sucesso,060515,211.36
+Santana,060516,178.13
+Borda do Campo,060517,146.25
+Moinhos da Gândara,060518,125
+Mira,060801,271.45
+Seixo,060802,216
+Carapelhos,060803,237.50
+Praia de Mira,060804,288.01
+Abrunheira,061001,168.75
+Arazede,061002,187.57
+Carapinheira,061003,208.68
+Gatões,061004,200
+Liceia,061005,152.19
+Meãs do Campo,061006,256.25
+Montemor-o-Velho,061007,281.25
+Pereira,061008,242.34
+Santo Varão,061009,180.04
+Seixo de Gatões,061010,185.63
+Tentúgal,061011,206.95
+Verride,061012,167.50
+Vila Nova da Barca,061013,10
+Ereira,061014,250
+Carvalho,061301,175
+Figueira de Lorvão,061302,228.13
+Friúmes,061303,46.67
+Lorvão,061304,150.94
+Oliveira do Mondego,061305,130.83
+Paradela,061306,87.50
+Penacova,061307,127.24
+São Paio de Mondego,061308,10
+São Pedro de Alva,061309,211.39
+Sazes do Lorvão,061310,350
+Travanca do Mondego,061311,212.50
+Alfarelos,061501,227.50
+Brunhós,061502,0
+Degracias,061503,202.50
+Figueiró do Campo,061504,235.71
+Gesteira,061505,175
+Granja do Ulmeiro,061506,242.45
+Pombalinho,061507,250
+Samuel,061508,235.63
+Soure,061509,238.71
+Tapéus,061510,168.75
+Vila Nova de Anços,061511,195.44
+Vinha da Rainha,061512,160.36
+Batalha,100401,270.51
+Reguengo do Fetal,100402,280.92
+São Mamede,100403,239.66
+Golpilheira,100404,228.33
+Amor,100901,229.22
+Arrabal,100902,212.50
+Azoia,100903,248.92
+Barosa,100904,205.11
+Barreira,100905,277.89
+Boa Vista,100906,248.10
+Caranguejeira,100907,244.29
+Carvide,100908,232.62
+Coimbrão,100909,225.50
+Colmeias,100910,215.14
+Cortes,100911,217.67
+Leiria,100912,265.80
+Maceira,100913,188.51
+Marrazes,100914,270.30
+Milagres,100915,298.07
+Monte Real,100916,216.70
+Monte Redondo,100917,214.23
+Ortigosa,100918,218.55
+Parceiros,100919,310.09
+Pousos,100920,287.15
+Regueira de Pontes,100921,207.87
+Santa Catarina da Serra,100922,236.13
+Santa Eufémia,100923,135.08
+Souto da Carpalhosa,100924,196.07
+Bajouca,100925,210
+Bidoeira de Cima,100926,261.25
+Memória,100927,193.75
+Carreira,100930,242.24
+Chainça,100931,143.75
+Marinha Grande,101001,235.14
+Vieira de Leiria,101002,223.53
+Moita,101003,215
+Abiul,101501,225
+Albergaria dos Doze,101502,167.70
+Almagreira,101503,266.25
+Carnide,101504,221.43
+Carriço,101505,240.55
+Louriçal,101506,283.59
+Mata Mourisca,101507,195.83
+Pelariga,101508,289.86
+Pombal,101509,264.81
+Redinha,101510,231.38
+Santiago de Litém,101511,204.29
+São Simão de Litém,101512,160
+Vermoil,101513,351.60
+Vila Cã,101514,316.67
+Meirinhas,101515,314.57
+Guia,101516,283.69
+Ilha,101517,216.54
+Alcaria,101601,350
+Alqueidão da Serra,101602,233.55
+Alvados,101603,111.67
+Arrimal,101604,175
+Calvaria de Cima,101605,236.13
+Juncal,101606,236.42
+Mendiga,101607,248.86
+Mira de Aire,101608,157.12
+Pedreiras,101609,211.60
+São Bento,101610,139.58
+Porto de Mós (São João Baptista),101611,265.83
+Porto de Mós (São Pedro),101612,244.97
+Serro Ventoso,101613,205
+Anceriz,060101,10
+Arganil,060102,187.84
+Barril de Alva,060103,175.31
+Benfeita,060104,93.75
+Celavisa,060105,250
+Cepos,060106,0
+Cerdeira,060107,0
+Coja,060108,140.49
+Folques,060109,0
+Moura da Serra,060110,0
+Piódão,060111,175
+Pomares,060112,115.63
+Pombeiro da Beira,060113,108.75
+São Martinho da Cortiça,060114,139.58
+Sarzedo,060115,178.26
+Secarias,060116,212.50
+Teixeira,060117,0
+Vila Cova de Alva,060118,40.47
+Alvares,060601,108.65
+Cadafaz,060602,237.50
+Colmeal,060603,87.50
+Góis,060604,182.31
+Vila Nova de Ceira,060605,200.96
+Casal de Ermio,060701,113.44
+Foz de Arouce,060702,165.45
+Lousã,060703,216.44
+Serpins,060704,173.28
+Vilarinho,060705,196.55
+Gândaras,060706,173.69
+Lamas,060901,127.50
+Miranda do Corvo,060902,217.04
+Rio Vide,060903,114.17
+Semide,060904,176.61
+Vila Nova,060905,42.50
+Aldeia das Dez,061101,87.42
+Alvoco das Várzeas,061102,106.88
+Avô,061103,91.92
+Bobadela,061104,127.50
+Ervedal,061105,209.86
+Lagares,061106,148.81
+Lagos da Beira,061107,212.63
+Lajeosa,061108,164.53
+Lourosa,061109,269.82
+Meruge,061110,193.18
+Nogueira do Cravo,061111,147.46
+Oliveira do Hospital,061112,218.40
+Penalva de Alva,061113,177.30
+Santa Ovaia,061114,230.46
+São Gião,061115,181.25
+São Paio de Gramaços,061116,202.12
+São Sebastião da Feira,061117,187.19
+Seixo da Beira,061118,121.18
+Travanca de Lagos,061119,175.81
+Vila Pouca da Beira,061120,102.50
+Vila Franca da Beira,061121,184.72
+Cabril,061201,0
+Dornelas do Zêzere,061202,62.50
+Fajão,061203,125
+Janeiro de Baixo,061204,125
+Machio,061205,0
+Pampilhosa da Serra,061206,231.56
+Pessegueiro,061207,62.50
+Portela do Fojo,061208,97.50
+Unhais-o-Velho,061209,67.50
+Vidual,061210,36.25
+Cumeeira,061401,146.88
+Espinhal,061402,215.87
+Podentes,061403,93.75
+Rabaçal,061404,62.50
+Penela (Santa Eufémia),061405,236.25
+Penela (São Miguel),061406,257.59
+Ázere,061601,143.75
+Candosa,061602,133.41
+Carapinha,061603,175
+Covas,061604,111.59
+Covelo,061605,0
+Espariz,061606,137.14
+Meda de Mouros,061607,87.50
+Midões,061608,159.80
+Mouronho,061609,248.75
+Pinheiro de Coja,061610,350
+Póvoa de Midões,061611,152.86
+São João da Boa Vista,061612,187.50
+Sinde,061613,135.63
+Tábua,061614,254.18
+Vila Nova de Oliveirinha,061615,65.71
+Arrifana,061701,181.25
+Lavegadas,061702,10
+Poiares (Santo André),061703,234.65
+São Miguel de Poiares,061704,134.58
+Almoster,100201,0
+Alvaiázere,100202,205.90
+Maçãs de Caminho,100203,350
+Maçãs de Dona Maria,100204,329.56
+Pelmá,100205,175
+Pussos,100206,225.44
+Rego da Murta,100207,212.50
+Alvorge,100301,250
+Ansião,100302,238.70
+Avelar,100303,200.65
+Chão de Couce,100304,180.06
+Lagarteira,100305,0
+Pousaflores,100306,780
+Santiago da Guarda,100307,230.21
+Torre de Vale de Todos,100308,350
+Aguda,100801,170.94
+Arega,100802,74.17
+Campelo,100803,0
+Figueiró dos Vinhos,100804,212.11
+Bairradas,100805,114.17
+Graça,101301,144.38
+Pedrógão Grande,101302,163.93
+Vila Facaia,101303,154.17
